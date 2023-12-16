@@ -17,6 +17,8 @@ Clone the Repository:
 
 Clone this repository to your local machine or download the source code.
 
+ ``` git clone https://github.com/radupaunescu2021/q.git ```
+
 Install Dependencies:
 
 Open the project in your IDE or navigate to the project directory in the command line.
