@@ -44,6 +44,11 @@ Selenium WebDriver Tests: **SeleniumTest.java**
 
 The Selenium tests are configured to run as part of the TestNG test suite.
 
+**To run only backend tests from AppTest :**
+
+``` mvn test -Dtest=AppTest ```
+
+
 
 **RUN from Intellij IDE**
 
